@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T16:33:44.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="9tIzcN4DBluA0WofzDpV" type="github"><diagram id="jdvD3QCwsG0guS_f39Rw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-18T16:34:12.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uK6qXKjLgBaxnL3rYHHA" version="20.5.3" type="github">
+  <diagram id="jdvD3QCwsG0guS_f39Rw" name="Page-1">
+    <mxGraphModel dx="1609" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-1" value="Travel to and from the destination" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-2" value="Accommodation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-3" value="Activities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-4" value="Themes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Return train to the airport&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-6" value="Flights" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-7" value="Airport hotel the night before flight" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-8" value="Villa for a week" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-9" value="Snorkelling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-10" value="Boat trip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-11" value="Theme park trip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-12" value="Cycling trip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-13" value="Epics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-14" value="Shuttle bus to and from the hotel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-15" value="Stories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Buy valid tickets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Should Have: Seats near each other&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Could Have: Refreshments on the train&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Buy valid tickets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Should Have: Seats near each other&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Get to airport 2 hours before flight&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Should Have: Meal on the flight&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Hold baggage booked&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Should Have: Air conditioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Buy valid tickets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Should Have: Toilets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Must Have: Space for baggage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-28" value="Must have: Bookings for everyone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-29" value="Could have: Everyone gets their own room" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-30" value="Could have: Free breakfast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-31" value="Could have: Free breakfast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-32" value="Must have: Bookings for everyone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-33" value="Should have: Everyone gets their own room" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="780" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-34" value="Should have: Wifi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="780" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-35" value="Could have: Cleaner" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="780" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-36" value="Could have: Spare key" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-37" value="Must have: Bookings for everyone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-38" value="Must have: Correct equipment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-39" value="Must have: Instructor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-40" value="Must have: Bookings for everyone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-41" value="Must have: Someone to captain the boat" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-42" value="Should have: Refreshments" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-43" value="Should have: Toilets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-44" value="Could have: Tour guide" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-45" value="Must have: Tickets for everyone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-46" value="Must have: Bike rentals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-47" value="Could have: Packed lunch prepared" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-48" value="Could have: Queue skip tickets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-49" value="Must have: Helmet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-50" value="Should have: Appropriate clothing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="llnS7eaoyS9hMUosrqZQ-51" value="Should have: Clear weather conditions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
